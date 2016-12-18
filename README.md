@@ -1,2 +1,0 @@
-# console
-Console emulating software
