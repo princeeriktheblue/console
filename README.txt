@@ -2,11 +2,11 @@ This code is provided and made originally by me. I keep this code as up to date 
 organizing and documenting it better to increase efficiency.
 
 Things I would like to do next:
-- Dynamic Command loading (I need to figure out the exact specifications of the class loader and dynamic inheritance; it's been
+(DONE!) - Dynamic Command loading (I need to figure out the exact specifications of the class loader and dynamic inheritance; it's been
       a pain for a while)
 - Increased efficiency.
 - More commands
-- Internal scripting language
+(In progress) - Internal scripting language
 - Dedicated File extensions (Somewhat like a batch script)
 - More OS tweeking and tools
 - Finishing the encryption command, and encryption for all data files
