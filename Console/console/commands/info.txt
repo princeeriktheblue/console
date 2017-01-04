@@ -1,0 +1,1 @@
+This folder only exists for commands which are NECESSARY for ANY functionality of the console instance itself. These commands are not arent made to be separated.
